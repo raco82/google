@@ -13,7 +13,7 @@ Peut-être que ça peut vous être utile ;)
 
 -------------
 
-[http://raco-google.surge.sh/](URL)
+http://raco-google.surge.sh/
 
 </center>
 
